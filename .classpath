@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BillingWorkSpace/BillService/src/main/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/BillService/src/test/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/ConfigServer/src/main/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/ConfigServer/src/test/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/CustmerService/src/main/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/CustmerService/src/test/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/EurekaServer/src/main/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/EurekaServer/src/test/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/Gateway/src/main/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/Gateway/src/test/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/InventoryService/src/main/java"/>
+	<classpathentry kind="src" path="BillingWorkSpace/InventoryService/src/test/java"/>
+	<classpathentry kind="lib" path="BillingWorkSpace/BillService/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BillingWorkSpace/ConfigServer/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BillingWorkSpace/CustmerService/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BillingWorkSpace/EurekaServer/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BillingWorkSpace/Gateway/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="BillingWorkSpace/InventoryService/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="BillingWorkSpace/BillService/target/classes"/>
+</classpath>
